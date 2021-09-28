@@ -20,12 +20,14 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 https://partner.microsoft.com/en-US/training/virtual-training-series#/
 
 ## Links to excel exam assessments (non-MS)
+Overview all excel files:
 https://github.com/Build5Nines/exam-assessments
 
 AZ-900 direct download:
 https://github.com/Build5Nines/exam-assessments/blob/master/Assessments/Exam-Msft-AZ-900-Self-Assessment-Build5Nines.xlsx?raw=1
 
 ## Study guides from Vlad (non-MS)
+Vlads Talks tech Study guides
 https://vladtalkstech.com/microsoft-certification-study-guides
 
 
