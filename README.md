@@ -21,6 +21,7 @@ https://partner.microsoft.com/en-US/training/virtual-training-series#/
 
 ## Links to excel exam assessments (non-MS)
 https://github.com/Build5Nines/exam-assessments
+
 AZ-900 direct download:
 https://github.com/Build5Nines/exam-assessments/blob/master/Assessments/Exam-Msft-AZ-900-Self-Assessment-Build5Nines.xlsx?raw=1
 
