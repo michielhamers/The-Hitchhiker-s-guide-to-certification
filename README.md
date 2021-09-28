@@ -30,5 +30,8 @@ https://github.com/Build5Nines/exam-assessments/blob/master/Assessments/Exam-Msf
 Vlads Talks tech Study guides
 https://vladtalkstech.com/microsoft-certification-study-guides
 
+AZ-900 direct link:
+https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals
+
 
 
