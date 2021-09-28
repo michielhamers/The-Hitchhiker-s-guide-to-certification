@@ -41,3 +41,13 @@ https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals
 
 
 
+###
+- 1e examen? 
+Ga lekker naar een examen centrum en accepteer dat je eventueel in herkansing moet
+- Herkansing?
+Check in je examen papier niet alleen de balkjes, maar lees alle pagina’s door… er staat een top 3 van aandachtspunten die je LETTERLIJK verwijzen naar een DOCS LEARN pagina
+- Vervolg examen? 
+Kies of je de rust neemt van een examen centrum…
+Of prober eens een Thuis examen…
+- Thuis examens … ??
+ALLEEEN je laptop, geen extra devices, smartwachtes, extra camera’s etc … ECHT clean desk policy… en de hele tijd ALLEEN… NIEMAND mag binnenlopen
