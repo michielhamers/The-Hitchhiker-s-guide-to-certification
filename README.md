@@ -4,6 +4,12 @@ As mentioned in the session here a overview of links.
 
 
 ## The Official links to starting points at MS
+Your MCID can be found at:
+https://docs.microsoft.com/nl-nl/learn/certifications/find-mcid
+
+Redeem vouchers:
+https://docs.microsoft.com/nl-nl/learn/certifications/redeem-discounts
+
 Train certification poster: 
 https://aka.ms/TrainCertPoster
 
