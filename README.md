@@ -12,7 +12,7 @@ Costs the same as a first try, however you've no experience in taking a exam. Ch
     * Pro: Ease of location
     * Pro: no issue when test computer has issues
     * Con: You can only schedule when the test location is open and mostly only 2 shifts in a day.
-- - Choose (home / online proctored exam): a
+- - Choose (home / online proctored exam): 
     * Pro: Anywhere in the country you live on. 
     * Pro: almost any time of the day you can schedule exam
     * Con: You need to have a clutter free space
