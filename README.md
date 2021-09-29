@@ -2,7 +2,7 @@
 
 As mentioned in the session here a overview of my view on MS Certification and the links.
 
-The AZ Materset (by Hammertime)
+The AZ Masterset (by Hammertime)
 - AZ-900
 - AZ-104
 - AZ-204
