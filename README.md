@@ -2,6 +2,16 @@
 
 As mentioned in the session here a overview of my view on MS Certification and the links.
 
+The AZ Materset (by Hammertime)
+- AZ-900
+- AZ-104
+- AZ-204
+- AZ-400
+- AZ-303
+- AZ-304
+- AZ-500
+
+
 ### Location
 - First exam? 
 Go to a exam centre and accept that you maybe need a second try.
