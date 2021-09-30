@@ -2,14 +2,14 @@
 
 As mentioned in the session here a overview of my view on MS Certification and the links.
 
-The AZ Masterset (by Hammertime)
-- AZ-900
-- AZ-104
-- AZ-204
-- AZ-400
-- AZ-303
-- AZ-304
-- AZ-500
+The AZ Masterset 13 (by Hammertime) 
+- AZ-900 - 1 star
+- AZ-104 - 2 stars
+- AZ-204 - 2 stars
+- AZ-400 - 3 stars
+- AZ-303 - 1,5 star (only after getting az-304)
+- AZ-304 - 1,5 star (only after getting az-303)
+- AZ-500 - 2 stars
 
 
 ### Location
@@ -79,5 +79,7 @@ AZ-900 direct link:
 https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals
 
 
-
+## Study guides from John Savill (non-MS)
+AZ-700 video 
+https://www.youtube.com/watch?v=nVZYDhB_M64&ab_channel=JohnSavill%27sTechnicalTraining
 
