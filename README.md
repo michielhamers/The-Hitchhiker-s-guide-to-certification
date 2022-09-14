@@ -10,6 +10,8 @@ The AZ Masterset 13 (by Hammertime)
 - AZ-305 - 3 stars
 - AZ-500 - 2 stars
 
+Bonus: security SC-900
+
 
 ### Location
 - First exam? 
