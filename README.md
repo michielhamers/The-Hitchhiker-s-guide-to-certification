@@ -7,8 +7,7 @@ The AZ Masterset 13 (by Hammertime)
 - AZ-104 - 2 stars
 - AZ-204 - 2 stars
 - AZ-400 - 3 stars
-- AZ-303 - 1,5 star (only after getting az-304)
-- AZ-304 - 1,5 star (only after getting az-303)
+- AZ-305 - 3 stars
 - AZ-500 - 2 stars
 
 
@@ -80,6 +79,8 @@ https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals
 
 
 ## Study guides from John Savill (non-MS)
+All guides from John Savill: https://www.youtube.com/c/NTFAQGuy
+
 AZ-700 video 
 https://www.youtube.com/watch?v=nVZYDhB_M64&ab_channel=JohnSavill%27sTechnicalTraining
 
